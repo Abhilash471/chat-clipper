@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.mp4
+*.mkv
+*.webm
+*.live_chat.json
+_source/
+clips/
+speed_clips/
+live_clips/
+my_clips/
+my_clip/
+build/
+dist/
+*.spec
